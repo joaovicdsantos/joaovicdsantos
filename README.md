@@ -1,16 +1,28 @@
-### Hi there 👋
+# Oi 👋
 
-<!--
-**joaovicdsantos/joaovicdsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é João Victor e basicamente me considero "Um Resolvedor de Problemas".
 
-Here are some ideas to get you started:
+Me enquadro nesse título desde meus 13 anos de idade quando tive meu primeiro contato com programação, especificamente com Python e, posteriormente, Java. Logo após comecei a conhecer o desenvolvimento web, desde as tecnologias básicas até outras de nível superior (React, Vue, SASS). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Por fim, mesclei essas duas áreas de conhecimento e possuo total competência de atuar como Desenvolvedor Fullstack. No âmbito pessoal, possuo uma boa capacidade de aprender por conta própria, ótima convivência em grupo e um apreço por ensinar. Um dos meus sonhos, além de atuar como desenvolvedor, é ajudar a comunidade de programação no Brasil, estando ligado a palestras, hackathons, eventos no geral e afins. 
+
+### Consulte meu [portfólio](https://joaovicdsantos.github.io) para mais informações.
+
+## Github Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=joaovicdsantos&show_icons=true&theme=highcontrast&hide_border=true&layout=compact)
+![github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovicdsantos&layout=compact&theme=highcontrast&hide_border=true)
+
+
+## Contatos
+<a href="https://twitter.com/joao_budinha" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://medium.com/@joaovicdsantos" target="_blank">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> 
+</a>
+<a href="https://www.linkedin.com/in/joaovicdsantos" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:joaovicdsantos@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
