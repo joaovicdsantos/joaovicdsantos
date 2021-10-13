@@ -1,6 +1,6 @@
 # Oi 👋
 
-Olá, meu nome é João Victor tenho 17 anos e basicamente me considero "Um Resolvedor de Problemas".
+Olá, meu nome é João Victor tenho 18 anos e basicamente me considero "Um Resolvedor de Problemas".
 
 Me enquadro nesse título desde meus 13 anos de idade quando tive meu primeiro contato com programação, especificamente com Python e, posteriormente, Java. Logo após comecei a conhecer o desenvolvimento web, desde as tecnologias básicas até outras de nível superior (React, Vue, SASS). 
 
